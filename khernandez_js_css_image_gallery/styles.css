@@ -1,0 +1,40 @@
+.list-image img {
+	height: 100px;
+	width: 100px;
+	display: inline;
+}
+
+#list-top {
+	position: relative;
+    left: 50px;
+    display: inline-flex;
+
+}
+
+#list-left-bottom {
+	position: absolute;
+	left: 260px;
+	height: 5px;
+	width: 5px;
+	top: 395px;
+}
+
+
+ul {
+    list-style-type: none;
+}
+	
+
+#display-container{
+	border: 2px solid purple;	
+	height: 400px;
+	width: 400px;
+	position:relative;
+	bottom:350px;
+	left: 150px;
+}
+
+#display{
+	height: 400px;
+	width: 400px;
+}
