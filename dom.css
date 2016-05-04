@@ -1,0 +1,12 @@
+body {
+	background-color : skyblue;
+}
+
+#aboutme{
+	text-align: center;
+	font-style: georgia;
+}
+
+li {
+	list-style: none;
+}
