@@ -1,0 +1,19 @@
+#a-box {
+  height: 200px;
+  background-color: #999;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.small, .medium {
+  border: 1px solid black;
+  height: 100px;
+}
+
+.small {
+  width: 200px;
+}
+
+.medium {
+  width: 400px;
+}

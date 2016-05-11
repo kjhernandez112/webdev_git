@@ -28,8 +28,8 @@ background-color: purple;
   height: 300px;
   width: 300px;
   position: absolute;
-  right: 700px;
-  top: 500px ;
+  right: 0px;
+  bottom: 0px;
   color: white;
   text-align: center;
 }
@@ -39,8 +39,8 @@ background-color: green;
   height: 200px;
   width: 200px;
   position: absolute;
-  left: 305px;
-  top: 550px  ;
+  right:700px;
+  top: 0px  ;
   color: white;
   text-align: center;
 }
@@ -50,8 +50,8 @@ background-color: navy;
   height: 300px;
   width: 300px;
   position: absolute;
-  left: 50px;
-  bottom: -150px ;
+  right: 0px;
+  bottom: 0px ;
   color: white;
   text-align: center;
 }
