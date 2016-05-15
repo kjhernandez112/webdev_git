@@ -1,0 +1,42 @@
+#top-box {
+  height: 50px;
+  background-color: #00CED1;
+  text-align: center;
+  margin-bottom: 100px;
+  width: 75%;
+  position: relative;
+  left: 200px;
+}
+
+.child, .child-2 {
+  border: 10px solid black;
+  border-color: #00CED1;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.child-3 {
+  height: 70px;
+  padding: 50px;
+  margin: 1px;
+  border: 10px solid black;
+  border-color: #309;
+
+}
+
+
+#parent {
+  display: flex;
+  flex-flow:  row wrap;
+  justify-content:space-around;
+  width: 1000px;
+  margin: auto;
+  overflow: auto;
+}
+
+#parent {
+  width: 1000px;
+  margin:auto;
+  overflow: auto; 
+
+}

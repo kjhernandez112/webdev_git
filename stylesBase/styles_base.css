@@ -11,9 +11,14 @@
 }
 
 .small {
-  width: 200px;
+  width: 500%;
+  padding: 1em
+  margin: 1em;
 }
 
 .medium {
   width: 400px;
+  padding: 1em;
+  margin: 1em;	
 }
+

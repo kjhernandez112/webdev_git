@@ -1,0 +1,6 @@
+@media screen and (max-width: 450px) {
+	.child, .child-2, .child-3 {
+	 width: 200%;		
+	 font-size: 20px;
+	}
+}
