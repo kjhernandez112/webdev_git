@@ -1,6 +1,9 @@
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 400px) {
 	.child, .child-2, .child-3 {
-	 width: 200%;		
+	 width: 100%;		
 	 font-size: 20px;
+	 opacity: 0.6;
+	 background-color: orange;
+	 margin-top: 2px;
 	}
 }

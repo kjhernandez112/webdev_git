@@ -8,7 +8,13 @@
   left: 200px;
 }
 
-.child, .child-2 {
+.child {
+  border: 10px dotted;
+  border-color: #629;
+  height: 100px;
+  margin-bottom: 10px;
+}
+.child-2 {
   border: 10px solid black;
   border-color: #00CED1;
   height: 100px;
@@ -21,9 +27,16 @@
   margin: 1px;
   border: 10px solid black;
   border-color: #309;
-
 }
 
+.child-4 {
+  height: 50px;
+  padding: 50px;
+  margin: 3px;
+  border: 5px solid black;
+  border-color: #209;
+  flex-shrink: 3;
+}
 
 #parent {
   display: flex;
@@ -32,6 +45,8 @@
   width: 1000px;
   margin: auto;
   overflow: auto;
+
+
 }
 
 #parent {
